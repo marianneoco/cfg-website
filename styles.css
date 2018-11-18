@@ -10,6 +10,5 @@ header li{
       padding: 0px 50px 0px 50px;
     }
 body{
-    background-image:"samplelondonimage.jpg";
-    background-size:cover;
+    backrground-color:blue;
 }
