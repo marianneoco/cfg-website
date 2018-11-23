@@ -1,6 +1,7 @@
-.jumbotron p{
-  color:blue;
-}
+body{
+  font-family: 'Cabin Condensed', sans-serif;
+  }
+  
 h1{
   color:red;
 }
