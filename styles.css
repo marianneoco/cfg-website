@@ -1,0 +1,11 @@
+p{
+  color:blue;
+}
+h1{
+  color:red;
+}
+header li{
+      display:inline;
+      font-size:30px;
+      padding: 0px 50px 0px 50px;
+    }
