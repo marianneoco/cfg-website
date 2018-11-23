@@ -1,4 +1,4 @@
-p{
+.jumbotron p{
   color:blue;
 }
 h1{
@@ -9,3 +9,6 @@ header li{
       font-size:30px;
       padding: 0px 50px 0px 50px;
     }
+    .jumbotron{
+      background: #ffff;
+      }
