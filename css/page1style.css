@@ -1,0 +1,12 @@
+ul.nav li{
+      display:inline;
+      font-size:30px;
+      padding: 0px 50px 0px 50px;
+    }
+ul.nav a{
+    display:inline;
+}
+.jumbotron {
+          background-image: "haringeyhouseview.jpg";
+          background-size: cover;
+    }
