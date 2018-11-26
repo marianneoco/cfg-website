@@ -5,16 +5,20 @@ ul.nav li{
     }
 ul.nav a{
   display:inline;
+  color:white;
 }
 .jumbotron {
-        background-image: "haringeyhouseview.jpg";
-        background-size: cover;
-        background-color: #f0ad4e;
+        background: url("haringeyhouseview.jpg") center;
+        color:white;
+        text-align:right;
     }
 body{
   background-color:grey;
 }
-.row{
+.container{
   display:flex;
   flex-wrap:wrap;
+}
+.navbar{
+  position:fixed;
 }
