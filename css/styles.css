@@ -9,7 +9,27 @@ header li{
       font-size:30px;
       padding: 0px 50px 0px 50px;
     }
+ul.nav li{
+      display:inline;
+      font-size:30px;
+      padding: 0px 50px 0px 50px;
+    }
+ul.nav a{
+  display:inline;
+  color:white;
+}
+.jumbotron {
+        background: url("img/haringeyhouseview.jpg") center;
+        color:white;
+        text-align:right;
+    }
 body{
-    background-image:"samplelondonimage.jpg";
-    background-size:cover;
+  background-color:white;
+}
+.container{
+  display:flex;
+  flex-wrap:wrap;
+}
+.navbar{
+  position:fixed;
 }
