@@ -1,0 +1,47 @@
+
+body {
+    font-family: 'Cabin Condensed', sans-serif;
+    background:#F2F2F2;
+    }
+
+h1 {
+      font-size: 28px;
+      }
+h3{
+      font-size: 20px;
+      }
+
+#header {
+    background: #99ccff;
+    text-align: center;
+    height: 120px;
+    }
+
+#social-buttons{
+  text-align: center;
+}
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 1000px) {
+  .container {
+    width: 768px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .container {
+    width: 420px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .container {
+    width: 300px;
+}
+}
+
+
+
+
+  }
+}
