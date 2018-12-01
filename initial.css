@@ -5,11 +5,20 @@ body {
     }
 
 h1 {
-      font-size: 28px;
-      }
+      font-size: 32px;
+    }
+
+h2 {
+    font-size: 26px;
+}
+
 h3{
       font-size: 20px;
       }
+
+p {
+  text-align:justify;
+  }
 
 #header {
     background: #99ccff;
@@ -19,6 +28,16 @@ h3{
 
 #social-buttons{
   text-align: center;
+  color: white;
+}
+
+.btn-twitter{
+  background: #00acee;
+  border-color: #009ad5;
+}
+.btn-facebook{
+  background: #4868ac;
+  border-color: #314776;
 }
 
 
