@@ -25,6 +25,7 @@ p {
     background: #99ccff;
     text-align: center;
     height: 120px;
+    padding-right: 0;
     }
 
 #social-buttons{
