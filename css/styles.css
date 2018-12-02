@@ -31,6 +31,18 @@ body{
 }
 .jumbotron {
           background: url("../img/haringeyhouseview.jpg");
+          background-size:cover;
+          background-position:center;
+          background-repeat:no-repeat;
+          min-height:200px;
           color:white;
-          text-align:right;
   }
+.item{
+  height:500px;
+}
+.item-active{
+  height:500px;
+}
+nav{
+  z-index:2;
+}
