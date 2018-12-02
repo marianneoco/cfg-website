@@ -18,13 +18,9 @@ ul.nav a{
   display:inline;
   color:white;
 }
-.jumbotron {
-        background: url("img/haringeyhouseview.jpg") center;
-        color:white;
-        text-align:right;
-    }
 body{
   background-color:white;
+  font-family: 'Cabin', sans-serif;
 }
 .container{
   display:flex;
@@ -33,3 +29,8 @@ body{
 .navbar{
   position:fixed;
 }
+.jumbotron {
+          background: url("../img/haringeyhouseview.jpg");
+          color:white;
+          text-align:right;
+  }
