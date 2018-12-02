@@ -1,13 +1,12 @@
 
 body {
     font-family: 'Cabin Condensed', sans-serif;
-    background:#F2F2F2;
+    background:#f2f2f2;
     }
 
 h1 {
       font-size: 32px;
-      color:red;
-    }
+      }
 
 h2 {
     font-size: 26px;
@@ -22,7 +21,7 @@ p {
   }
 
 #header {
-    background: #99ccff;
+    background: #ABB2B9;
     text-align: center;
     height: 120px;
     padding-right: 0;
