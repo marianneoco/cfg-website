@@ -3,7 +3,7 @@ window.JSMaps.maps.LondonBoroughs = {
 		"mapWidth": 740.706,
 		"mapHeight": 574.000,
 		"displayAbbreviations": false,
-		"defaultText": "<h2>London Boroughs</h2><br /><p>The 32 London boroughs are the local authority districts of the Greater London administrative area (the 33rd is the City of London). Each area is is a local government district governed by a London borough council. The London boroughs were all created on 1 April 1965 by the London Government Act 1963.</p>"
+		"defaultText": "<h2>London Boroughs</h2><br /><p>The 32 London boroughs are the local authority districts of the Greater London administrative area (the 33rd is the City of London). Each area is is a local government district governed by a London borough council. The London boroughs were all created on 1 April 1965 by the London Government Act 1963. </br></br>Select a borough from the map to learn more....</p>"
 	},
 	"paths": [
 		{
