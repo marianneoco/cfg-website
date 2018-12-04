@@ -1,9 +1,59 @@
-p{
-  color:blue;
+body{
+  background-color:white;
+  font-family: 'Cabin Condensed', sans-serif;
 }
-h1{
-  color:red;
+
+h1 {
+      font-size: 32px;
 }
+
+h2 {
+    font-size: 26px;
+}
+
+h3{
+    font-size: 20px;
+}
+#social-buttons{
+  text-align: center;
+  color: white;
+}
+#header {
+    background: #ABB2B9;
+    text-align: center;
+    height: 120px;
+    padding-right: 0;
+    }
+p {
+      text-align:justify;
+      }
+
+.btn-twitter{
+        background: #00acee;
+        border-color: #009ad5;
+      }
+.btn-facebook{
+        background: #4868ac;
+        border-color: #314776;
+      }
+/*
+@media only screen and (min-width: 768px) and (max-width: 1000px) {
+        .container {
+          width: 768px;
+        }
+      }
+@media only screen and (max-width: 767px) {
+        .container {
+          width: 420px;
+        }
+      }
+@media only screen and (max-width: 480px) {
+        .container {
+          width: 300px;
+      }
+/* Marianne's CSS starts here */
+
+
 header li{
       display:inline;
       font-size:30px;
@@ -18,11 +68,10 @@ ul.nav a{
   display:inline;
   color:white;
 }
-body{
-  background-color:white;
-  font-family: 'Cabin', sans-serif;
+.carousel-caption p{
+  text-align:center;
 }
-.container{
+#links{
   display:flex;
   flex-wrap:wrap;
 }
