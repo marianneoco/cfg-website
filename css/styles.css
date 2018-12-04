@@ -117,6 +117,10 @@ col-sm-4{
   align-self: auto;
 }
 
+#social-buttons{
+  z-index:2;
+}
+
 /* background image method CSS
 .first{
   background-image: url("../img/samplechristmas.jpg");
