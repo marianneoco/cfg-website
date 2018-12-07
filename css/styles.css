@@ -19,9 +19,11 @@ h3{
   color: white;
 }
 #header {
-    background: #ABB2B9;
+    /*background: #ABB2B9;*/
+    background: url("../img/londonimg.jpg");
+    background-size: cover;
     text-align: center;
-    height: 120px;
+    height: 200px;
     padding-right: 0;
     }
 p {
