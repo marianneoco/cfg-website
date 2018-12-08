@@ -72,6 +72,10 @@ ul.nav a{
 }
 .carousel-caption p{
   text-align:center;
+  font-size:30px;
+}
+.carousel-caption h3{
+  font-size:42px;
 }
 #links{
   display:flex;
@@ -81,18 +85,25 @@ ul.nav a{
   position:fixed;
 }
 .jumbotron {
-          background: url("../img/haringeyhouseview.jpg");
+          background: url("../img/countryside.jpg");
           background-size:cover;
           background-position:center;
           background-repeat:no-repeat;
           min-height: 200px;
           color: white;
   }
+
+.jumbotron h1{
+  font-size:80px;
+}
 .item{
-  height:500px;
+  height: 500px;
+  width:auto;
+  object-fit:cover;
 }
 .item-active{
-  height:300px;
+  height:500px;
+  object-fit:contain;
 }
 nav{
   z-index:2;
