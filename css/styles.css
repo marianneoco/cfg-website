@@ -1,15 +1,15 @@
 body{
-  background-color:white;
+  background-color:#E5E6E8;
   font-family: 'Cabin Condensed', sans-serif;
 }
 
 h1 {
       font-size: 32px;
-}
+    }
 
 h2 {
     font-size: 26px;
-}
+    }
 
 h3{
     font-size: 20px;
@@ -19,12 +19,14 @@ h3{
   color: white;
 }
 #header {
-    background: #ABB2B9;
+    /*background: #ABB2B9;*/
+    background: url("../img/londonimg.jpg");
+    background-size: cover;
     text-align: center;
-    height: 120px;
+    height: 200px;
     padding-right: 0;
     }
-p {
+    p {
       text-align:justify;
       }
 
@@ -70,6 +72,11 @@ ul.nav a{
 }
 .carousel-caption p{
   text-align:center;
+  font-size:30px;
+}
+.carousel-caption h3{
+  font-size:42px;
+  text-align:center;
 }
 #links{
   display:flex;
@@ -79,18 +86,24 @@ ul.nav a{
   position:fixed;
 }
 .jumbotron {
-          background: url("../img/haringeyhouseview.jpg");
           background-size:cover;
           background-position:center;
           background-repeat:no-repeat;
           min-height: 200px;
-          color: white;
+          color: black;
   }
+
+.jumbotron h1{
+  font-size:80px;
+}
 .item{
-  height:500px;
+  height: 500px;
+  width:auto;
+  object-fit:cover;
 }
 .item-active{
-  height:300px;
+  height:500px;
+  object-fit:contain;
 }
 nav{
   z-index:2;
@@ -109,6 +122,7 @@ col-sm-4{
   font-size:25px;
   width:92.5%;
 }
+
 .imglink a{
   color:white;
 }
